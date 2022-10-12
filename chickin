@@ -1,0 +1,9 @@
+def solution(chickin):
+    sbs = 0
+    
+    for i in cp:
+        sbs += (cp / 10)
+          
+
+cp = 100 
+print(solution(cp))
